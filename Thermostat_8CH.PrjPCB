@@ -108,7 +108,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KGLKECSA
 
 [Document5]
-DocumentPath=TH8_Breakout.SchDoc
+DocumentPath=TH8_Breakout_cryo.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -142,6 +142,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WKLLJLWT
 
 [Document7]
+DocumentPath=TH8_Breakout.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BNVMGOOH
+
+[Document8]
 DocumentPath=TH8_EEM_connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UUWGMCQE
 
-[Document8]
+[Document9]
 DocumentPath=TH8_RMII_Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGJQMTUX
 
-[Document9]
+[Document10]
 DocumentPath=TH8_TEC_driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTHBCBBD
 
-[Document10]
+[Document11]
 DocumentPath=Thermostat_8CH.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=TH8_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,12 +243,46 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMJUETGM
 
+[Document13]
+DocumentPath=Fan_board_Thermostat 8CH\Fan_board_Thermostat_8CH.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document14]
+DocumentPath=Fan_board_Thermostat 8CH\Fan_board_Thermostat_8CH.PCBDOC
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=7DDDB149-02B6-4C78-AE23-2C0F37058BB8
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=31
+VariationCount=42
 Variation1=Designator=J4|UniqueId=\GREDOCPZ\FLOIEEBE|Kind=1|AlternatePart= 
 Variation2=Designator=W2|UniqueId=\OOWCRTSV\ROPFENLN|Kind=1|AlternatePart= 
 Variation3=Designator=IC23|UniqueId=\QNEIDSRT\POSDMOIV|Kind=1|AlternatePart= 
@@ -263,6 +314,17 @@ Variation28=Designator=R91_4|UniqueId=\CECTGFRD\KPCWLPAV|Kind=1|AlternatePart=
 Variation29=Designator=R44_4|UniqueId=\CECTGFRD\GRBITFFK|Kind=1|AlternatePart= 
 Variation30=Designator=R50_4|UniqueId=\CECTGFRD\WBQDRZGU|Kind=1|AlternatePart= 
 Variation31=Designator=R132_4|UniqueId=\CECTGFRD\GZQUHQWV|Kind=1|AlternatePart= 
+Variation32=Designator=R129_1|UniqueId=\RIBUTDTU\VASRVBVO|Kind=1|AlternatePart= 
+Variation33=Designator=R130_1|UniqueId=\RIBUTDTU\IMVAPRDA|Kind=1|AlternatePart= 
+Variation34=Designator=R129_2|UniqueId=\NHOVPQCL\VASRVBVO|Kind=1|AlternatePart= 
+Variation35=Designator=R130_2|UniqueId=\NHOVPQCL\IMVAPRDA|Kind=1|AlternatePart= 
+Variation36=Designator=R129_3|UniqueId=\SKIFGFUM\VASRVBVO|Kind=1|AlternatePart= 
+Variation37=Designator=R130_3|UniqueId=\SKIFGFUM\IMVAPRDA|Kind=1|AlternatePart= 
+Variation38=Designator=R129_4|UniqueId=\CECTGFRD\VASRVBVO|Kind=1|AlternatePart= 
+Variation39=Designator=R130_4|UniqueId=\CECTGFRD\IMVAPRDA|Kind=1|AlternatePart= 
+Variation40=Designator=R36_4|UniqueId=\CECTGFRD\ERFLNYRY|Kind=1|AlternatePart= 
+Variation41=Designator=C40_4|UniqueId=\CECTGFRD\VUXNRGSI|Kind=1|AlternatePart= 
+Variation42=Designator=C39_4|UniqueId=\CECTGFRD\IUDFSHKI|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
@@ -855,6 +917,36 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
