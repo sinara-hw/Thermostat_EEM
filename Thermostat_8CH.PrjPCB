@@ -283,7 +283,7 @@ UniqueID=7DDDB149-02B6-4C78-AE23-2C0F37058BB8
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=48
+VariationCount=54
 Variation1=Designator=J4|UniqueId=\GREDOCPZ\FLOIEEBE|Kind=1|AlternatePart= 
 Variation2=Designator=W2|UniqueId=\OOWCRTSV\ROPFENLN|Kind=1|AlternatePart= 
 Variation3=Designator=IC23|UniqueId=\QNEIDSRT\POSDMOIV|Kind=1|AlternatePart= 
@@ -332,6 +332,12 @@ Variation45=Designator=R221|UniqueId=\GREDOCPZ\GBGOCUNE|Kind=1|AlternatePart=
 Variation46=Designator=C102|UniqueId=\AJEAYBIW\EJNOGWTE|Kind=1|AlternatePart= 
 Variation47=Designator=C103|UniqueId=\AJEAYBIW\TYALINVA|Kind=1|AlternatePart= 
 Variation48=Designator=IC15|UniqueId=\GREDOCPZ\XCJPZZZF|Kind=1|AlternatePart= 
+Variation49=Designator=R227|UniqueId=\GREDOCPZ\THDEOVIQ|Kind=1|AlternatePart= 
+Variation50=Designator=R228|UniqueId=\GREDOCPZ\AXMMXYBU|Kind=0|AlternatePart= 
+Variation51=Designator=R229|UniqueId=\GREDOCPZ\LVAPMPKZ|Kind=1|AlternatePart= 
+Variation52=Designator=R231|UniqueId=\GREDOCPZ\THDUNAJV|Kind=1|AlternatePart= 
+Variation53=Designator=R232|UniqueId=\GREDOCPZ\TXUWQETC|Kind=1|AlternatePart= 
+Variation54=Designator=R233|UniqueId=\GREDOCPZ\NURBGJRW|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
