@@ -138,6 +138,10 @@ DItemRevisionGUID=
 DocumentPath=..\Prod\ExportSTEP\Thermostat_EEM_8CH_v1.1.1(Default).step
 DItemRevisionGUID=
 
+[Parameter1]
+Name=rev
+Value=1.0.1
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

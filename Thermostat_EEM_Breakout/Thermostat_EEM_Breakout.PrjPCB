@@ -174,16 +174,24 @@ DocumentPath=Project Outputs for Zotino\Design Rule Check - ThEEM_Breakout.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Zotino\Design Rule Check - Thermostat_EEM_Breakout.html
+DocumentPath=Project Outputs for Thermostat_EEM_Breakout\Design Rule Check - Thermostat_EEM_Breakout.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=C:\Users\PS\AppData\Local\Temp\QjzF156.xls
+DocumentPath=Project Outputs for Zotino\Design Rule Check - Thermostat_EEM_Breakout.html
 DItemRevisionGUID=
 
 [GeneratedDocument6]
+DocumentPath=C:\Users\PS\AppData\Local\Temp\QjzF156.xls
+DItemRevisionGUID=
+
+[GeneratedDocument7]
 DocumentPath=Prod\ExportSTEP\ThEEM_Breakout_vrev(Default).step
 DItemRevisionGUID=
+
+[Parameter1]
+Name=rev
+Value=1.0.1
 
 [Configuration1]
 Name=Default Configuration

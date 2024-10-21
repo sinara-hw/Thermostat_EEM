@@ -173,6 +173,10 @@ DItemRevisionGUID=
 DocumentPath=Prod\ExportSTEP\ThEEM_Cryo_vrev(Default).step
 DItemRevisionGUID=
 
+[Parameter1]
+Name=rev
+Value=1.0.1
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
